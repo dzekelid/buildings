@@ -24,7 +24,7 @@ apis:
   tags: Buildings
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/buildings/master/_listings/emuseum-api-docs/search-buildings-get.md
+    url: https://raw.githubusercontent.com/streamdata-gallery/buildings/master/_listings/emuseum-api-docs/id-buildings-id-get.md
 x-common:
 - type: x-issues-page
   url: https://github.com/GSA/eMuseum-API/issues
