@@ -25,7 +25,20 @@ apis:
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/buildings/master/_listings/emuseum-api-docs/id-buildings-id-get.md
+- name: eMuseum API Buildings
+  description: Search for art by building
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/eMuseum5_Blog.jpg
+  humanURL: http://gsa.github.io/eMuseum-API/
+  baseURL: https://gsafinearts.pbs.gsa.gov//emuseum/api
+  tags: Buildings
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/buildings/master/_listings/emuseum-api-docs/search-buildings-get.md
 x-common:
+- type: x-issues-page
+  url: https://github.com/GSA/eMuseum-API/issues
+- type: x-website
+  url: http://gsa.github.io/eMuseum-API/
 - type: x-issues-page
   url: https://github.com/GSA/eMuseum-API/issues
 - type: x-website
